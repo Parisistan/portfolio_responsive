@@ -11,6 +11,9 @@
     h2 {
         font-size: 38px;
     }
+    body {
+        text-align: center;
+    }
 }
 
 body {
